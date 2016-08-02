@@ -1,14 +1,26 @@
 layout_spectrum: 0.6143327
+name: Bohemian Chica
 typography_spectrum: 0.7853589
 color:
-  lightness: 0.2260152
   brandStrength: 0.4236891
   saturation: 0.4461263
-  rhythmicContrast: 0.2614608
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: Bohemian Chica
+  lightness: 0.2260152
+  rhythmicContrast: 0.2614608
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'

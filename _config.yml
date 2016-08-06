@@ -1,26 +1,26 @@
-color:
-  saturation: 0
-  brandStrength: 0.5
-  rhythmicContrast: 0.1095119
-  brandColors:
-    - '#ABA3BC'
-    - '#67879F'
-    - '#A16B88'
-    - '#DD4B97'
-    - '#0009CF'
-  lightness: 0.7790989
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.238423
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.4462943
+  brandStrength: 0.4505908
+  lightness: 0.7790989
+  brandColors:
+    - '#FFFFFF'
+    - '#0E110A'
+    - '#2D5924'
+    - '#8B8B8D'
+    - '#F55A49'
+  rhythmicContrast: 0.1095119
 typography_spectrum: 0.05819775
+layout_spectrum: 0.4924812
 name: Bohemian Chica

@@ -1,3 +1,17 @@
+typography_spectrum: 0.05819775
+color:
+  saturation: 0.4462943
+  brandStrength: 0.4505908
+  lightness: 0.7790989
+  brandColors:
+    - '#FFFFFF'
+    - '#0E110A'
+    - '#2D5924'
+    - '#8B8B8D'
+    - '#F55A49'
+  rhythmicContrast: 0.1095119
+layout_spectrum: 0.4924812
+name: Bohemian Chica
 collections:
   - index:
       path: /
@@ -10,17 +24,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.4462943
-  brandStrength: 0.4505908
-  lightness: 0.7790989
-  brandColors:
-    - '#FFFFFF'
-    - '#0E110A'
-    - '#2D5924'
-    - '#8B8B8D'
-    - '#F55A49'
-  rhythmicContrast: 0.1095119
-typography_spectrum: 0.05819775
-layout_spectrum: 0.4924812
-name: Bohemian Chica
+title: Adventures in Wonderland
